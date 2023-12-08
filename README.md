@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Jacob! <br/><a href="https://github.com/pricejacobj">Cybersecurity Specialist</a>, <a href="https://www.linkedin.com/in/pricejacobj/">Analyst</a>, <a href="https://www.linkedin.com/in/pricejacobj/">Systems Admin</a>
 
-<!--
-**pricejacobj/pricejacobj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Education
+- New Horizons Cybersecurity Bootcamp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+
+
+<h2>⭐ Cross Domain Projects:</h2>
+
+  - [Cybersecurity Threat Detection Analysis]
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Active Directory Home Lab]
+
+
+<h2>🛠️ Software Development Projects:</h2>
+
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+
+- <b>PowerShell</b>
+  - [JWipe (Disk Wiping Utility)] 
+
